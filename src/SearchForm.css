@@ -1,0 +1,26 @@
+.form {
+  margin: 50px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.form input {
+  width: 150px;
+  outline: none;
+}
+
+.form fieldset {
+  border-radius: 0;
+}
+
+.header img {
+  height: 56px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

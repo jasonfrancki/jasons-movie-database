@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto:wght@400;700&display=swap');
+
+* {
+  border-radius: 10px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+  line-height: 2rem;
+}
+
+h5 {
+  font-weight: normal;
+}
