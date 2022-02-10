@@ -1,3 +1,3 @@
-#JMDb
+# Jason's Movie Database
 
-Jason's Movie Database
+https://jasonsmovies.netlify.app/
